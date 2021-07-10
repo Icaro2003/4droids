@@ -185,6 +185,22 @@ main .smartphones .img-smartphones img {
     margin-right: 3rem;
 }
 
+footer {
+    position: relative;
+    background-color: #63e8bc;
+    color: #fff;
+    height: 10rem;
+    text-align: center;
+}
+
+footer p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.2rem;
+}
+
 @media screen and (min-width: 1000px) {
     .header {
         height: 18rem;
