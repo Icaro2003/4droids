@@ -205,7 +205,7 @@ footer p {
     font-size: 2.42rem;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 980px) {
     .header {
         height: 18rem;
     }
