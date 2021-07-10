@@ -145,7 +145,7 @@ main .info-box {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    background: linear-gradient(95.79deg, #41E2B7 0%, #A1F0C5 100%);
+    background: linear-gradient(95.79deg, #41e2b7 0%, #a1f0c5 100%);
     padding: 3rem;
     max-height: 65rem;
 }
@@ -171,7 +171,7 @@ main .smartphones {
 
 main .smartphones h2 {
     font-size: 3.5rem;
-    color: #3DDC84;
+    color: #3ddc84;
 }
 
 main .smartphones .img-smartphones {
