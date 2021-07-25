@@ -1,4 +1,4 @@
-.header {
+header {
     font-size: 2rem;
     font-weight: bold;
     background-color: #58ec9b;
@@ -6,11 +6,11 @@
     overflow: hidden;
 }
 
-.header .logo {
+header .logo {
     text-align: center;
 }
 
-.header .menu {
+header .menu {
     text-align: center;
     list-style: none;
 }
@@ -46,15 +46,15 @@ footer p {
 }
 
 @media screen and (min-width: 980px) {
-    .header {
+    header {
         height: 18rem;
     }
 
-    .header .logo {
+    header .logo {
         float: left;
     }
 
-    .header .menu {
+    header .menu {
         float: right;
         padding: 4rem;
         margin-top: 4rem;
