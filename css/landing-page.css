@@ -91,29 +91,12 @@ main .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
-main .info-box {
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    background: linear-gradient(95.79deg, #41e2b7 0%, #a1f0c5 100%);
-    padding: 3rem;
-    max-height: 70rem;
-}
-
 main .info-box .info-text {
-    color: #fff;
     font-size: 2.5rem;
-    max-width: 55rem;
 }
 
-main .info-box .info-text p {
-    margin-top: 2rem;
-}
-
-main .info-box .info-img img {
-    margin-top: 4rem;
-    width: 100%;
+main .info-box .info-img {
+    margin-top: 6rem;
 }
 
 main .smartphones {

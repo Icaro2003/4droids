@@ -1,0 +1,35 @@
+main .info-box,
+.info-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 3rem;
+    max-height: 70rem;
+}
+
+main .info-box {
+    background: linear-gradient(95.79deg, #41e2b7 0%, #a1f0c5 100%);
+}
+
+main .info-text {
+    max-width: 55rem;
+}
+
+
+main .info-box .info-text {
+    color: #fff;
+    font-weight: 500;
+}
+
+main .info-box .info-text h2 {
+    font-size: 4rem;
+}
+
+main .info-text p {
+    margin-top: 2rem;
+}
+
+main .info-img img {
+    width: 100%;
+}
