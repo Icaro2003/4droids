@@ -1,0 +1,82 @@
+main .contact {
+    margin: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+main .contact-info {
+    display: flex;
+    flex-direction: column;
+    max-width: 50rem;
+}
+
+main .contact-info img {
+    margin-top: 2rem;
+    width: 100%;
+}
+
+main .contact-info .text h1 {
+    color: #3ddc84;
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+main .contact-info .text p {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    font-weight: 500;
+    color: #686767;
+}
+
+main .form-user form {
+    display: flex;
+    flex-direction: column;
+}
+
+main .form-user form input,
+main .form-user form textarea {
+    background-color: #e9e7e7;
+    color: #87898b;
+    margin: 1rem;
+    max-width: 100%;
+    border: none;
+    border-radius: 1rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 1rem;
+    font-weight: 500;
+}
+
+main .form-user form input {
+    height: 4rem;
+}
+
+main .form-user form textarea {
+    resize: none;
+}
+
+main .form-user form input[type='submit'] {
+    background-color: #41e2b7;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.8rem;
+    cursor: pointer;
+    height: 5rem;
+}
+
+main .form-user form input[type='submit']:hover {
+    background-color: #3ed4ac;
+    transition: .2s;
+}
+
+@media screen and (min-width: 980px) {
+    main .form-user form input[type='submit'] {
+        width: 13rem;
+    }
+
+    footer {
+        position: absolute;
+        bottom: 0;
+    }
+}
