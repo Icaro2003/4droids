@@ -10,16 +10,16 @@
 
 .history-box .container p {
     margin-top: 2rem;
-    text-align: justify;
+    text-align: left;
     line-height: 1.6;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #686767;
 }
 
 .history-box h1 {
     color: #3ddc84;
     font-family: 'Roboto Slab', serif;
-    font-size: 3.6rem;
+    font-size: 3.2rem;
     text-align: center;
 }
 
@@ -59,4 +59,15 @@ main .info-box .info-img {
     font-size: 2rem;
     font-weight: bold;
     color: #3ddc84;
+}
+
+@media (min-width: 980px) {
+    .history-box .container p {
+        text-align: justify;
+        font-size: 2rem;
+    }
+
+    .history-box h1 {
+        font-size: 3.6rem;
+    }
 }
