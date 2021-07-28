@@ -17,6 +17,7 @@ main .contact-info img {
 }
 
 main .contact-info .text h1 {
+    text-align: center;
     color: #3ddc84;
     font-size: 3rem;
     font-weight: 500;
@@ -74,5 +75,9 @@ main .form-user form input[type='submit']:hover {
     footer {
         position: absolute;
         bottom: 0;
+    }
+    
+    main .contact-info .text h1 {
+        text-align: left;
     }
 }
