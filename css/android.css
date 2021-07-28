@@ -1,5 +1,4 @@
 .history-box {
-    text-align: center;
     padding: 5rem;
     display: flex;
     justify-content: center;
@@ -11,6 +10,7 @@
 
 .history-box .container p {
     margin-top: 2rem;
+    text-align: justify;
     line-height: 1.6;
     font-size: 2rem;
     color: #686767;
@@ -20,10 +20,7 @@
     color: #3ddc84;
     font-family: 'Roboto Slab', serif;
     font-size: 3.6rem;
-}
-
-main .info-text {
-    font-size: 2.2rem;
+    text-align: center;
 }
 
 main .info-body .info-text {
@@ -37,6 +34,11 @@ main .info-body .info-text h2 {
 
 main .info-body .info-text p {
     color: #686767;
+}
+
+main .info-text p {
+    line-height: 1.6;
+    font-size: 1.8rem;
 }
 
 main .info-box .info-img {
