@@ -14,6 +14,7 @@ main .contact-info {
 main .contact-info img {
     margin-top: 2rem;
     width: 100%;
+    text-align: center;
 }
 
 main .contact-info .text h1 {
@@ -21,7 +22,7 @@ main .contact-info .text h1 {
     color: #3ddc84;
     font-size: 3rem;
     font-weight: 500;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 main .contact-info .text p {
