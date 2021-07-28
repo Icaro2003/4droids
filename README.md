@@ -12,6 +12,6 @@
 
 # 🔖 Layout
 
-[![4DROIDS](/.github/4droids.jpg)](https://github.com/Icaro2003/4droids/blob/master/.github/4droids.JPG)
+[![4DROIDS](https://github.com/Icaro2003/4droids/blob/master/.github/4droids.JPG)](https://github.com/Icaro2003/4droids/blob/master/.github/4droids.JPG)
 
 You can view the layout of the project through [this link](https://www.figma.com/file/2AHQAefBlSaUVGI61sI2sZ/4DROIDS). You must have an account on [Figma](https://figma.com) to access it.
