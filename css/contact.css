@@ -1,8 +1,9 @@
 main .contact {
-    padding: 4.5rem;
+    padding: 5rem;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 main .contact-info {
