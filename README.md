@@ -1,7 +1,5 @@
 # 4DROIDS
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Icaro2003/4droids/blob/master/LICENSE)
-
 # 💻 About project
 > ## Status: Finish html-css ✔️
 4DROIDS is a web project built with HTML5 and CSS3, it was planned and developed to test skills in the respective technologies, and can be used as a template for creating any web project.
