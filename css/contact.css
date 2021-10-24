@@ -71,10 +71,3 @@ main .form-user form input[type='submit']:hover {
     background-color: #3ed4ac;
     transition: .2s;
 }
-
-@media (min-width: 980px) {
-    footer {
-        position: absolute;
-        bottom: 0;
-    }
-}
