@@ -1,6 +1,4 @@
-# 4DROIDS
-
-[![4DROIDS](https://icaro2003.github.io/4droids/)](https://icaro2003.github.io/4droids/)
+# [4DROIDS](https://icaro2003.github.io/4droids/)
 
 # 💻 About project
 > ## Status: Finish html-css ✔️
