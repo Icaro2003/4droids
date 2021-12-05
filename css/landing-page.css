@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Android;
+    src: url(/fonts/Android.ttf);
+}
+
 .presentation {
     margin-bottom: 3rem;
     display: flex;
