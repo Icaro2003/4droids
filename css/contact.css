@@ -26,7 +26,7 @@ main .contact-info .text h1 {
 }
 
 main .contact-info .text p {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     line-height: 1.6;
     font-weight: 500;
     color: #686767;
@@ -70,4 +70,11 @@ main .form-user form input[type='submit'] {
 main .form-user form input[type='submit']:hover {
     background-color: #3ed4ac;
     transition: .2s;
+}
+
+@media (min-width: 980px) {
+    footer {
+        bottom: 0;
+        position: fixed;
+    }
 }
